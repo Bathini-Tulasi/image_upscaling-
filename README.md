@@ -11,6 +11,6 @@ The goal is to enhance low-resolution images by training on a dataset and genera
   final_enhance.py 
   Contains the final code to upscale the image using streamlit interface
   
-  Take a dataset from kaggle to train rrdn model
+  Take Image Deblurring datasets from kaggle to train rrdn model
 
   
